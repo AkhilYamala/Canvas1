@@ -1,0 +1,17 @@
+* {
+	padding : 0px;
+	margin : 0px;
+}
+
+#title {
+	position : absolute;
+	color : white;
+	font-family: helvetica;
+	line-height: 100vh;
+	left : 80vh; 
+	font-size: 50px;
+}
+
+canvas {
+	background : black;
+}
